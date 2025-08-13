@@ -18,7 +18,7 @@ This folder contains all datasets, reports, and visualizations from the 5-day li
 - [Innomatic_data_labs_task.ipynb](./DataAnalysis_of_5_day_live_Class/Innomatic_data_labs_task.ipynb)
 
 ### 📷 Visualizations
-![Attendance per Day](./DataAnalysis_of_5_day_live_Class/Attedence_per_day.png)
+![Attendance per Day](./DataAnalysis_of_5_day_live_Class/Attendence_per_day.png)
 ![Top 3 States Participation](./DataAnalysis_of_5_day_live_Class/Top_3_States_participation.png)
 ![Top 3 Districts Participation](./DataAnalysis_of_5_day_live_Class/Top_3_districts_participation.png)
 ![Top 5 Colleges Participation](./DataAnalysis_of_5_day_live_Class/Top_5_colleges_participation.png)
